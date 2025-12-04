@@ -1,4 +1,4 @@
-# pin-and-bump
+# 📌👊 pin-and-bump
 
 Pin GitHub Actions to commit SHAs, and optionally update to latest versions.
 
@@ -43,13 +43,9 @@ pin-and-bump -p /path/to/repo
 
 ## Features
 
-- Uses YAML parsing to find `uses:` references
-- Resolves tags to commit SHAs via GitHub API
+- Resolves tags to commit SHAs using GitHub API
 - Preserves formatting, indentation, and comments
-- Skips already-pinned SHA references
 - `--update` flag fetches latest releases and updates versions
-- Colored output showing changes
-
 
 ## TODO
 
