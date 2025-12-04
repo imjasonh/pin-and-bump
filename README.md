@@ -53,4 +53,5 @@ pin-and-bump -p /path/to/repo
 
 ## TODO
 
+- cut a release; first release can't use trusted publishing :sob:
 - when `--update` is set, also update already-pinned deps
