@@ -5,7 +5,7 @@ Pin GitHub Actions to commit SHAs, and optionally update to latest versions.
 ## Installation
 
 ```bash
-cargo install pin-and-bump
+cargo install --path .
 ```
 
 ## Usage
